@@ -1,0 +1,6 @@
+In JavaScript, e.target.value is commonly used in event handling, particularly when dealing with form inputs or interactive elements like text fields, checkboxes, or dropdowns.
+
+Logs the current value of the input field.
+e.target.value allows you to get the most recent value entered by the user.
+
+study 'split()' method for strings and array.
